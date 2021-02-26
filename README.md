@@ -1,5 +1,4 @@
 # 合并三方cyript
-`mrcript`意为`mrege cyript`的意思。合并，并把方法 变量 置为小写, 变量名及其用法不变 
 1. [mjcript](https://github.com/CoderMJLee/mjcript)
 ```sh
 git clone https://github.com/CoderMJLee/mjcript.git /usr/lib/cycript0.9/com/codermjlee
